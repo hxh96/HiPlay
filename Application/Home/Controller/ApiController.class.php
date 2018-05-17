@@ -22,7 +22,7 @@ class ApiController extends HomeController
 
 
 
-
+        $a = 1;
 
 
     }
