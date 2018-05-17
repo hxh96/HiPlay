@@ -1,0 +1,200 @@
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 13:24:03
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 13:24:03","sign":"YmFjZjU0YWVmNTE5YTM3OWE4OTVjY2M2NjMyNDU0ZmY="}
+加密前:2018-05-09 13:24:03174
+加密后:YmFjZjU0YWVmNTE5YTM3OWE4OTVjY2M2NjMyNDU0ZmY=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 13:24:03
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 13:24:03","sign":"YmFjZjU0YWVmNTE5YTM3OWE4OTVjY2M2NjMyNDU0ZmY="}
+加密前:2018-05-09 13:24:03174
+加密后:YmFjZjU0YWVmNTE5YTM3OWE4OTVjY2M2NjMyNDU0ZmY=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 13:26:22
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 13:26:22","sign":"NTI5NzhlYWZjY2VmZGEzMTRmMGVkODUzMzI5MzczM2U="}
+加密前:2018-05-09 13:26:22174
+加密后:NTI5NzhlYWZjY2VmZGEzMTRmMGVkODUzMzI5MzczM2U=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 13:32:06
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 13:32:06","sign":"YjMxMWRhOTc2ZTEwM2U3ZDg1MGE2OTM2NDEyYzQ1NzQ="}
+加密前:2018-05-09 13:32:06174
+加密后:YjMxMWRhOTc2ZTEwM2U3ZDg1MGE2OTM2NDEyYzQ1NzQ=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 13:32:31
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 13:32:31","sign":"NzQ0ZDA0ZmE2OGQ3N2M0ZjFiYzA0M2M5YzIyNmExYTk="}
+加密前:2018-05-09 13:32:31174
+加密后:NzQ0ZDA0ZmE2OGQ3N2M0ZjFiYzA0M2M5YzIyNmExYTk=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 13:37:21
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 13:37:20","sign":"NWY3MjgzM2JhZWZlNzkyY2IxMWVkYzQ3ODM4ODhjZDI="}
+加密前:2018-05-09 13:37:20174
+加密后:NWY3MjgzM2JhZWZlNzkyY2IxMWVkYzQ3ODM4ODhjZDI=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 13:51:11
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 13:51:10","sign":"NmE1MTBlZDQzYTY0YWRjM2E1NzM2YmEwZGZhZWRlOWU="}
+加密前:2018-05-09 13:51:10174
+加密后:NmE1MTBlZDQzYTY0YWRjM2E1NzM2YmEwZGZhZWRlOWU=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 13:51:39
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 13:51:39","sign":"NzA3YzE4MjIyZDJjYmI5NjYwMTk1MWVmNjY5YzFiZWU="}
+加密前:2018-05-09 13:51:39174
+加密后:NzA3YzE4MjIyZDJjYmI5NjYwMTk1MWVmNjY5YzFiZWU=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 13:54:23
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 13:54:23","sign":"YWNjNTkxYWQ3OTQ0N2Y2MzMzZWRmMjQ0YTNiNzQwZDk="}
+加密前:2018-05-09 13:54:23174
+加密后:YWNjNTkxYWQ3OTQ0N2Y2MzMzZWRmMjQ0YTNiNzQwZDk=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 13:58:43
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 13:58:42","sign":"ZTBmMjY4OTc5NzQ5NmUyZWVmY2I4NGNmMTVkNDIyMmE="}
+加密前:2018-05-09 13:58:42174
+加密后:ZTBmMjY4OTc5NzQ5NmUyZWVmY2I4NGNmMTVkNDIyMmE=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 14:02:05
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 14:02:05","sign":"ZTZkYmM4NWZkMGZlZTEzMjU0MmZmNDkyMDBmMzdhZTA="}
+加密前:2018-05-09 14:02:05174
+加密后:ZTZkYmM4NWZkMGZlZTEzMjU0MmZmNDkyMDBmMzdhZTA=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 14:12:25
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 14:12:25","sign":"ODlmZDQxNDlkY2MyMWU3NTZhMGE1ODdiZjM2MjA0ZTk="}
+加密前:2018-05-09 14:12:25174
+加密后:ODlmZDQxNDlkY2MyMWU3NTZhMGE1ODdiZjM2MjA0ZTk=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 14:34:01
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 14:33:59","sign":"ZTdmZmI2MTk2NGJmZDkzOWRmN2JlYzUwZDFiNDQ0ZmQ="}
+加密前:2018-05-09 14:33:59174
+加密后:ZTdmZmI2MTk2NGJmZDkzOWRmN2JlYzUwZDFiNDQ0ZmQ=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 15:10:45
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 15:10:44","sign":"MDRkOWY4YzIyYjlmZjkxYWIyZDNkMmMyM2Y2YTA4NGU="}
+加密前:2018-05-09 15:10:44174
+加密后:MDRkOWY4YzIyYjlmZjkxYWIyZDNkMmMyM2Y2YTA4NGU=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 15:25:25
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 15:25:24","sign":"MTRhYzEzYzRmNTllY2QzODY5YWMzMWY0NjU2YmFiNmM="}
+加密前:2018-05-09 15:25:24174
+加密后:MTRhYzEzYzRmNTllY2QzODY5YWMzMWY0NjU2YmFiNmM=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserInfo
+请求时间:2018-05-09 16:53:36
+请求参数:{"timeStamp":"2018-05-09 16:53:37","id":"174","sign":"MzVhZThmNThjOTlkNzk0NmI1MDg1NzkyYzhiM2VlYmU="}
+加密前:1742018-05-09 16:53:37
+加密后:MzVhZThmNThjOTlkNzk0NmI1MDg1NzkyYzhiM2VlYmU=
+返回数据:{"code":200,"message":"\u6210\u529f","data":{"id":"174","user_name":"conn","password":null,"id_card":null,"openid":"ofgtxxG1QbDTnj5fjVtNJWzm8KEk","unionid":"obFBn1C1f9OnN4OeNRaF87MrfrzQ","real_name":null,"phone":"18782271516","qq":null,"email":null,"age":"0","sex":"1","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","address":"\u56db\u5ddd\u7701-\u6210\u90fd\u5e02-\u6b66\u4faf\u533a","subscribe":"1","is_robot":"0","source":null,"status":"1","inputtime":"2018-04-28 20:29:08","lost_login_time":"2018-05-08 18:08:17","personality_sign":"\u554a\u5b9e\u6253\u5b9e\u6539\u597d\u4ef7\u683c\u53d1\u58eb\u5927\u592b\u5de5\u4f1a\u7ecf\u8d39reek\u4efb\u4f55\u4eba\u662f\u7684\u53cd\u6fc0\u52a8\u5242\u54e6\u6211\u8272\u5f31\u7ba1\u5bb6\u5a46\u7279\u5c14 ","is_official":"0"}}
+
+
+请求地址:Api/getUserInfo
+请求时间:2018-05-09 16:57:23
+请求参数:{"timeStamp":"2018-05-09 16:57:24","id":"174","sign":"OTFjY2I4MjdiMTY0ZTI4NTFiMTYwY2Q3NjlhOWFlMzM="}
+加密前:1742018-05-09 16:57:24
+加密后:OTFjY2I4MjdiMTY0ZTI4NTFiMTYwY2Q3NjlhOWFlMzM=
+返回数据:{"code":200,"message":"\u6210\u529f","data":{"id":"174","user_name":"conn","password":null,"id_card":null,"openid":"ofgtxxG1QbDTnj5fjVtNJWzm8KEk","unionid":"obFBn1C1f9OnN4OeNRaF87MrfrzQ","real_name":null,"phone":"18782271516","qq":null,"email":null,"age":"0","sex":"1","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","address":"\u56db\u5ddd\u7701-\u6210\u90fd\u5e02-\u6b66\u4faf\u533a","subscribe":"1","is_robot":"0","source":null,"status":"1","inputtime":"2018-04-28 20:29:08","lost_login_time":"2018-05-08 18:08:17","personality_sign":"\u554a\u5b9e\u6253\u5b9e\u6539\u597d\u4ef7\u683c\u53d1\u58eb\u5927\u592b\u5de5\u4f1a\u7ecf\u8d39reek\u4efb\u4f55\u4eba\u662f\u7684\u53cd\u6fc0\u52a8\u5242\u54e6\u6211\u8272\u5f31\u7ba1\u5bb6\u5a46\u7279\u5c14 ","is_official":"0"}}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 17:08:02
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 17:08:02","sign":"YmE5MjlmMjAxYmRkZjI2ZmIzMzEwYjZmY2EzNTQyMzI="}
+加密前:2018-05-09 17:08:02174
+加密后:YmE5MjlmMjAxYmRkZjI2ZmIzMzEwYjZmY2EzNTQyMzI=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 17:50:01
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 17:50:01","sign":"OThiMTc4OWM0YzViOWE0OWYwZDFjNDFhZDVhZjlhY2Y="}
+加密前:2018-05-09 17:50:01174
+加密后:OThiMTc4OWM0YzViOWE0OWYwZDFjNDFhZDVhZjlhY2Y=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserInfo
+请求时间:2018-05-09 18:00:04
+请求参数:{"timeStamp":"2018-05-09 18:00:05","id":"174","sign":"ZjJlYzQyOWU0NWM1Y2UyMmNlMzNlNWI4Y2ZhNGVlNTY="}
+加密前:1742018-05-09 18:00:05
+加密后:ZjJlYzQyOWU0NWM1Y2UyMmNlMzNlNWI4Y2ZhNGVlNTY=
+返回数据:{"code":200,"message":"\u6210\u529f","data":{"id":"174","user_name":"conn","password":null,"id_card":null,"openid":"ofgtxxG1QbDTnj5fjVtNJWzm8KEk","unionid":"obFBn1C1f9OnN4OeNRaF87MrfrzQ","real_name":null,"phone":"18782271516","qq":null,"email":null,"age":"0","sex":"1","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","address":"\u56db\u5ddd\u7701-\u6210\u90fd\u5e02-\u6b66\u4faf\u533a","subscribe":"1","is_robot":"0","source":null,"status":"1","inputtime":"2018-04-28 20:29:08","lost_login_time":"2018-05-08 18:08:17","personality_sign":"\u554a\u5b9e\u6253\u5b9e\u6539\u597d\u4ef7\u683c\u53d1\u58eb\u5927\u592b\u5de5\u4f1a\u7ecf\u8d39reek\u4efb\u4f55\u4eba\u662f\u7684\u53cd\u6fc0\u52a8\u5242\u54e6\u6211\u8272\u5f31\u7ba1\u5bb6\u5a46\u7279\u5c14 ","is_official":"0"}}
+
+
+请求地址:Api/getUserInfo
+请求时间:2018-05-09 18:00:07
+请求参数:{"timeStamp":"2018-05-09 18:00:09","id":"174","sign":"ZDZmZDEzZWUxZDdkMjg0YzVhNDU2ZjFmNjM5ZDEzMjU="}
+加密前:1742018-05-09 18:00:09
+加密后:ZDZmZDEzZWUxZDdkMjg0YzVhNDU2ZjFmNjM5ZDEzMjU=
+返回数据:{"code":200,"message":"\u6210\u529f","data":{"id":"174","user_name":"conn","password":null,"id_card":null,"openid":"ofgtxxG1QbDTnj5fjVtNJWzm8KEk","unionid":"obFBn1C1f9OnN4OeNRaF87MrfrzQ","real_name":null,"phone":"18782271516","qq":null,"email":null,"age":"0","sex":"1","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","address":"\u56db\u5ddd\u7701-\u6210\u90fd\u5e02-\u6b66\u4faf\u533a","subscribe":"1","is_robot":"0","source":null,"status":"1","inputtime":"2018-04-28 20:29:08","lost_login_time":"2018-05-08 18:08:17","personality_sign":"\u554a\u5b9e\u6253\u5b9e\u6539\u597d\u4ef7\u683c\u53d1\u58eb\u5927\u592b\u5de5\u4f1a\u7ecf\u8d39reek\u4efb\u4f55\u4eba\u662f\u7684\u53cd\u6fc0\u52a8\u5242\u54e6\u6211\u8272\u5f31\u7ba1\u5bb6\u5a46\u7279\u5c14 ","is_official":"0"}}
+
+
+请求地址:Api/getUserInfo
+请求时间:2018-05-09 18:00:51
+请求参数:{"timeStamp":"2018-05-09 18:00:53","id":"174","sign":"NDFkNzI3M2Q0MGVkMDExMGYyOGE0MGRiYzVjNTRhZmI="}
+加密前:1742018-05-09 18:00:53
+加密后:NDFkNzI3M2Q0MGVkMDExMGYyOGE0MGRiYzVjNTRhZmI=
+返回数据:{"code":200,"message":"\u6210\u529f","data":{"id":"174","user_name":"conn","password":null,"id_card":null,"openid":"ofgtxxG1QbDTnj5fjVtNJWzm8KEk","unionid":"obFBn1C1f9OnN4OeNRaF87MrfrzQ","real_name":null,"phone":"18782271516","qq":null,"email":null,"age":"0","sex":"1","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","address":"\u56db\u5ddd\u7701-\u6210\u90fd\u5e02-\u6b66\u4faf\u533a","subscribe":"1","is_robot":"0","source":null,"status":"1","inputtime":"2018-04-28 20:29:08","lost_login_time":"2018-05-08 18:08:17","personality_sign":"\u554a\u5b9e\u6253\u5b9e\u6539\u597d\u4ef7\u683c\u53d1\u58eb\u5927\u592b\u5de5\u4f1a\u7ecf\u8d39reek\u4efb\u4f55\u4eba\u662f\u7684\u53cd\u6fc0\u52a8\u5242\u54e6\u6211\u8272\u5f31\u7ba1\u5bb6\u5a46\u7279\u5c14 ","is_official":"0"}}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 21:01:59
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 21:01:59","sign":"NmRkNzE3NDg1OTY2Mjg3YmU4NThmZGU0MjQ5MWFiN2Q="}
+加密前:2018-05-09 21:01:59174
+加密后:NmRkNzE3NDg1OTY2Mjg3YmU4NThmZGU0MjQ5MWFiN2Q=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 21:01:59
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 21:01:59","sign":"NmRkNzE3NDg1OTY2Mjg3YmU4NThmZGU0MjQ5MWFiN2Q="}
+加密前:2018-05-09 21:01:59174
+加密后:NmRkNzE3NDg1OTY2Mjg3YmU4NThmZGU0MjQ5MWFiN2Q=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+
+请求地址:Api/getUserCollection
+请求时间:2018-05-09 23:09:41
+请求参数:{"user_id":"174","timeStamp":"2018-05-09 23:09:41","sign":"ODc2MGMzOTFiYTZkNGFmM2YzMDIyNTc0NTU4YjhlMWQ="}
+加密前:2018-05-09 23:09:41174
+加密后:ODc2MGMzOTFiYTZkNGFmM2YzMDIyNTc0NTU4YjhlMWQ=
+返回数据:{"code":200,"message":"\u6210\u529f","data":[{"collection_id":"30","activity_id":"224","title":"\u770b\u7535\u5f71","activity_cate_id":"3","category_id":"1116","merchants_id":null,"join_number":"1","content":"","activity_inputtime":"2018-05-08 13:09:19","sort":"0","activity_status":"0","activity_start_time":"2018-05-09 18:00:00","activity_address":"\u6b66\u4faf\u533a\u6842\u6eaa\u8857\u9053\u5927\u57ce\u9645(\u5409\u6cf0\u8def)\u94f6\u6cf0\u57ce","activity_longitude":"104.059155","activity_latitude":"30.541111","user_id":"137","user_name":"conn","sex":"1","phone":"18782271516","head_img":"\/Upload\/2018-05-08\/5af14461048cc.jpg","is_official":"0","status":"1","inputtime":"2018-05-09 10:26:03","activity_cate_name":"AA"}]}
+
+

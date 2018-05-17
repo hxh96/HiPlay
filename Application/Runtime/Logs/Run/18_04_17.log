@@ -1,0 +1,424 @@
+[ 2018-04-17T11:48:57+08:00 ] 127.0.0.1 /run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-17T11:48:57+08:00 ] 127.0.0.1 /Run/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-17T11:48:57+08:00 ] 127.0.0.1 /Run/Login/ver.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-17T11:49:05+08:00 ] 127.0.0.1 /Run/Login/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_admin` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_admin` WHERE `username` = 'hiwan' LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `hiwan_admin` SET `last_login_time`='2018-04-17 11:49:05' WHERE `id` = 1 [ RunTime:0.0070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-17T11:49:05+08:00 ] 127.0.0.1 /Run/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-17T11:49:08+08:00 ] 127.0.0.1 /Run/Category/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant int - assumed 'int' D:\phpStudy\WWW\hiwan\Application\Run\Controller\CategoryController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `hiwan_category` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_category` WHERE `pid` = 0 ORDER BY sort desc  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 261 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 267 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 261 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 267 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 261 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 267 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-17T11:52:46+08:00 ] 127.0.0.1 /Run/Category/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant int - assumed 'int' D:\phpStudy\WWW\hiwan\Application\Run\Controller\CategoryController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `hiwan_category` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_category` WHERE `pid` = 0 ORDER BY sort desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 262 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 269 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 262 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 269 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 262 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 269 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-17T11:52:49+08:00 ] 127.0.0.1 /Run/Category/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_category` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_category` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_category` ORDER BY sort desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 263 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 263 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 263 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-17T11:52:51+08:00 ] 127.0.0.1 /Run/Category/edit/id/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_category` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_category` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_category` ORDER BY sort desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: id D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 250 行.
+NOTIC: [8] Undefined variable: name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 253 行.
+NOTIC: [8] Undefined variable: sort D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 263 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 263 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 263 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 263 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 265 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 263 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 263 行.
+NOTIC: [8] Use of undefined constant _child - assumed '_child' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined index: _child D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 264 行.
+NOTIC: [8] Undefined variable: img D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 275 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 323 行.
+NOTIC: [8] Undefined variable: pid D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\b6c0885583009ca823b1bf837cde469b.php 第 337 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-17T11:52:54+08:00 ] 127.0.0.1 /Run/UploadImg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' D:\phpStudy\WWW\hiwan\Application\Common\Model\UploadImgModel.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' D:\phpStudy\WWW\hiwan\Application\Common\Model\UploadImgModel.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' D:\phpStudy\WWW\hiwan\Application\Common\Model\UploadImgModel.class.php 第 22 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-04-17T11:52:55+08:00 ] 127.0.0.1 /Run/Category/editData.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_category` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_category` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `hiwan_category` SET `name`='100',`sort`='0',`pid`='0',`img`='/Upload/2018/04/17/5ad56f967b638.png' WHERE `id` = 1 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-17T11:52:57+08:00 ] 127.0.0.1 /Run/Category/index.html?pid=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Use of undefined constant int - assumed 'int' D:\phpStudy\WWW\hiwan\Application\Run\Controller\CategoryController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `hiwan_category` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_category` WHERE `pid` = 0 ORDER BY sort desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 262 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 269 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 262 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 269 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 262 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 269 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-17T12:43:44+08:00 ] 127.0.0.1 /Run/Category/index.html?pid=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant int - assumed 'int' D:\phpStudy\WWW\hiwan\Application\Run\Controller\CategoryController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `hiwan_category` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_category` WHERE `pid` = 0 ORDER BY sort desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 262 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 269 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 262 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 269 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 262 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\e1f598c6e4f38b96238e66ea8b99a445.php 第 269 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

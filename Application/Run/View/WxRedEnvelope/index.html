@@ -1,0 +1,51 @@
+<extend name="Index/index"/>
+<block name="content">
+    <div class="public-nav">
+        您当前的位置：
+        <a href="">{$module}</a>>
+        <a href="">{$menu}</a>
+    </div>
+    <div class="public-content">
+        <div class="public-content-header">
+            <h3>{$menu}</h3>
+
+        </div>
+        <div class="public-content-cont">
+            <table class="public-cont-table">
+                <tr>
+                    <th style="width:2%">ID</th>
+                    <th style="width:10%">用户名</th>
+                    <th style="width:10%">手机号</th>
+                    <th style="width:5%">商户订单号</th>
+                    <th style="width:10%">红包订单号</th>
+                    <th style="width:10%">金额</th>
+                    <th style="width:10%">发放时间</th>
+                </tr>
+                <volist name="lists" id="v">
+                    <tr>
+                        <td>{$v.id}</td>
+                        <td><a href="{:U('User/index',['id'=>$v[user_id]])}" style="color: #00C1B3">{$v.username}</a></td>
+                        <td>{$v.phone}</td>
+                        <td>{$v.mch_billno}</td>
+                        <td>{$v.send_listid}</td>
+                        <td>{$v.total_amount}元</td>
+                        <td>{$v.inputtime}</td>
+                    </tr>
+                </volist>
+            </table>
+            <div class="pagelist">
+                {$page}
+            </div>
+        </div>
+    </div>
+</block>
+<block name="script">
+    <script src="__JS__/run.js"></script>
+
+    <script>
+        var SCOPE = {
+            'redirect_url' : "{:U('WxRedEnvelope/delete')}",
+            'jump_url' : "{:U('WxRedEnvelope/index')}"
+        };
+    </script>
+</block>

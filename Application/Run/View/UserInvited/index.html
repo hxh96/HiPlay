@@ -1,0 +1,83 @@
+<extend name="Index/index"/>
+<block name="content">
+    <div class="public-nav">
+        您当前的位置：
+        <a href="">{$module}</a>>
+        <a href="">{$menu}</a>
+    </div>
+    <div class="public-content">
+        <div class="public-content-header">
+
+            <h3>{$menu}</h3>
+
+        </div>
+        <div class="public-content-cont">
+            <table class="public-cont-table">
+                <tr>
+                    <th >ID</th>
+                    <th >用户名</th>
+                    <th >应邀者手机</th>
+                    <th >应邀状态</th>
+                    <th >发起者名称</th>
+                    <th >发起者手机</th>
+                    <th >应邀活动</th>
+                    <th >应邀时间</th>
+                    <!--<th >操作</th>-->
+                </tr>
+                <volist name="lists" id="v">
+                    <tr>
+                        <td>{$v.id}</td>
+                        <td><a href="{:U('User/index',['id'=>$v[user_id]])}" style="color: #00C1B3">{$v.user_name}</a></td>
+                        <td>{$v.user_phone}</td>
+                        <td>
+                            <if condition="$v[status] eq 0">
+                                <span style="color: blue">发起者未响应</span>
+                                <elseif condition="$v[status] eq 1"/>
+                                <span style="color: #6eb6de">发起者接受</span>
+                                <elseif condition="$v[status] eq 2"/>
+                                <span style="color: red">发起者拒绝</span>
+                                <elseif condition="$v[status] eq 3"/>
+                                <span style="color: red">应邀者取消</span>
+                                <elseif condition="$v[status] eq 4"/>
+                                <span style="color: red">发起者取消</span>
+                                <else/>
+                                <span style="color: red">应邀超时</span>
+                            </if>
+                        </td>
+                        <td><a href="{:U('User/index',['id'=>$v[initiate_user_id]])}" style="color: #00C1B3">{$v.initiate_user_name}</a></td>
+                        <td>{$v.initiate_user_phone}</td>
+                        <td title="{$v.feedback_content}" ><a href="{:U('Activity/index',['id'=>$v[activity_id]])}" style="color: #6eb6de">{$v.activity_title}</a></td>
+                        <td>{$v.inputtime}</td>
+                        <!--<td>-->
+                            <!--<div class="table-fun">-->
+                                <!--&lt;!&ndash;<a href="{:U('Admin/edit',['id'=>$v[id]])}">修改</a>&ndash;&gt;-->
+                                <!--<if condition="$v[status] eq 1">-->
+                                    <!--<a href="javaScript:;" attr-id="{$v.id}" attr-name="封停" class="tp-delete">-->
+                                        <!--<span style="color: red">封停</span>-->
+                                    <!--</a>-->
+                                    <!--<else/>-->
+                                    <!--<a href="javaScript:;" attr-id="{$v.id}" attr-name="恢复" class="tp-delete">-->
+                                        <!--<span style="color: deepskyblue">恢复</span>-->
+                                    <!--</a>-->
+                                <!--</if>-->
+                            <!--</div>-->
+                        <!--</td>-->
+                    </tr>
+                </volist>
+            </table>
+            <div class="pagelist">
+                {$page}
+            </div>
+        </div>
+    </div>
+</block>
+<block name="script">
+    <script src="__JS__/run.js"></script>
+
+    <script>
+        var SCOPE = {
+            'redirect_url' : "{:U('UserFeedback/delete')}",
+            'jump_url' : "{:U('UserFeedback/index')}"
+        };
+    </script>
+</block>

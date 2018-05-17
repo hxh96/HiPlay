@@ -1,0 +1,87 @@
+<extend name="Index/index"/>
+<block name="content">
+    <div class="public-nav">
+        您当前的位置：
+        <a href="">{$module}</a>>
+        <a href="">{$menu}</a>
+    </div>
+    <div class="public-content">
+        <div class="public-content-header">
+            <div class="public-content-right fr">
+                <a href="{:U('Category/add',['pid'=>$pid])}" style="height: 24px; width: 60px;border: 1px solid #ccc;font-size: 12px;text-align:center">添加信息</a>
+            </div>
+            <h3>{$menu}</h3>
+
+        </div>
+        <div class="public-content-cont">
+            <table class="public-cont-table">
+                <tr>
+                    <th style="width:2%">ID</th>
+                    <th style="width:10%">分类名称</th>
+                    <th style="width:10%">父类名称</th>
+                    <th style="width:5%">排序</th>
+                    <th style="width:5%">图片</th>
+                    <th style="width:10%">添加时间</th>
+                    <th style="width:20%">操作</th>
+                </tr>
+                <volist name="lists" id="v">
+                    <tr>
+                        <td>{$v.id}</td>
+                        <td><a href="{:U('Category/index',['pid'=>$v[id]])}" arrt-pid="{$v.id}" class="categoryName" style="color: #6eb6de">{$v.name}</a></td>
+                        <td>{$v.p_name}</td>
+                        <td>{$v.sort}</td>
+                        <td><img src="{$v.img}" width="50px"/></td>
+                        <td>{$v.inputtime}</td>
+                        <td>
+                            <div class="table-fun">
+                                <a href="{:U('Category/edit',['id'=>$v[id]])}">修改</a>
+                                <a href="javaScript:;" attr-id="{$v.id}" attr-name="删除" class="tp-delete">
+                                        <span style="color: red">删除</span>
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                </volist>
+            </table>
+            <div class="pagelist">
+                {$page}
+            </div>
+        </div>
+    </div>
+</block>
+<block name="script">
+    <script src="__JS__/run.js"></script>
+
+    <script>
+        var SCOPE = {
+            'redirect_url' : "{:U('Category/delete')}",
+            'jump_url' : "{:U('Category/index')}"
+        };
+
+        $(function(){
+
+//            //查看下级菜单
+//            $('.categoryName').click(function(){
+//                var pid = $(this).attr('arrt-pid');
+//                $.ajax({
+//                    type:'post',
+//                    url:"{:U('Category/checkPid')}",
+//                    data:'pid='+pid,
+//                    dataType:'json',
+//                    success:function(data){
+//                        if(data.code == 1){
+//                            location.href = "{:U('Category/index')}?pid="+pid;
+//                        }else {
+//                            return dialog.error(data.message);
+//                        }
+//                    }
+//
+//
+//                });
+//
+//            });
+
+
+        });
+    </script>
+</block>

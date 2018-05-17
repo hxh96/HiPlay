@@ -1,0 +1,57 @@
+<extend name="Index/index"/>
+<block name="content">
+    <div class="public-nav">
+        您当前的位置：
+        <a href="">{$module}</a>>
+        <a href="">{$menu}</a>
+    </div>
+    <div class="public-content">
+        <div class="public-content-header">
+            <div class="public-content-right fr">
+                <a href="{:U('System/add')}" style="height: 24px; width: 60px;border: 1px solid #ccc;font-size: 12px;text-align:center">添加信息</a>
+            </div>
+            <h3>{$menu}</h3>
+
+        </div>
+        <div class="public-content-cont">
+            <table class="public-cont-table">
+                <tr>
+                    <th style="width:2%">ID</th>
+                    <th style="width:20%">备注</th>
+                    <th style="width:20%">栏目变量</th>
+                    <th style="width:20%">栏目值</th>
+                    <th style="width:20%">栏目图片</th>
+                    <th style="width:20%">操作</th>
+                </tr>
+                <volist name="lists" id="v">
+                    <tr>
+                        <td>{$v.id}</td>
+                        <td>{$v.name}</td>
+                        <td>{$v.var}</td>
+                        <td>{$v.data}</td>
+                        <td><img src="{$v.img}" width="50"/> </td>
+                        <td>
+                            <div class="table-fun">
+                                <a href="{:U('System/edit',['id'=>$v[id]])}">修改</a>
+                                <a href="javaScript:;" attr-id="{$v.id}" attr-name="删除" class="tp-delete" style="color: red">删除</a>
+                            </div>
+                        </td>
+                    </tr>
+                </volist>
+            </table>
+            <div class="pagelist">
+                {$page}
+            </div>
+        </div>
+    </div>
+</block>
+<block name="script">
+    <script src="__JS__/run.js"></script>
+
+    <script>
+        var SCOPE = {
+            'redirect_url' : "{:U('System/delete')}",
+            'jump_url' : "{:U('System/index')}"
+        };
+    </script>
+</block>

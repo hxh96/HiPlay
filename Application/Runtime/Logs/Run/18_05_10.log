@@ -1,0 +1,276 @@
+[ 2018-05-10T14:51:00+08:00 ] 127.0.0.1 /run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018000s ]
+
+[ 2018-05-10T14:51:00+08:00 ] 127.0.0.1 /Run/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T14:51:01+08:00 ] 127.0.0.1 /Run/Login/ver.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T14:51:10+08:00 ] 127.0.0.1 /Run/Login/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T14:51:11+08:00 ] 127.0.0.1 /Run/Login/ver.html?0.7853153490546976
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T14:51:16+08:00 ] 127.0.0.1 /Run/Login/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_admin` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_admin` WHERE `username` = 'hiwan' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-10T14:51:23+08:00 ] 127.0.0.1 /Run/Login/ver.html?0.4466071403102658
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T14:51:26+08:00 ] 127.0.0.1 /Run/Login/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_admin` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_admin` WHERE `username` = 'hiwan' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `hiwan_admin` SET `last_login_time`='2018-05-10 14:51:26' WHERE `id` = 1 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T14:51:27+08:00 ] 127.0.0.1 /Run/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T14:51:31+08:00 ] 127.0.0.1 /Run/UserInvited/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user_invited` ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `hiwan_activity` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `hiwan_activity` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 277 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 280 行.
+NOTIC: [8] Undefined index: status D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 280 行.
+NOTIC: [8] Use of undefined constant initiate_user_id - assumed 'initiate_user_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 292 行.
+NOTIC: [8] Undefined index: feedback_content D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 294 行.
+NOTIC: [8] Use of undefined constant activity_id - assumed 'activity_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 294 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 298 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 299 行.
+NOTIC: [8] Undefined index: status D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 299 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T14:54:39+08:00 ] 127.0.0.1 /Run/UserInvited/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `hiwan_user_invited` ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `hiwan_activity` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_activity` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 277 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 280 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 281 行.
+NOTIC: [8] Use of undefined constant initiate_user_id - assumed 'initiate_user_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 292 行.
+NOTIC: [8] Undefined index: feedback_content D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 294 行.
+NOTIC: [8] Use of undefined constant activity_id - assumed 'activity_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 294 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 298 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 299 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T14:54:39+08:00 ] 127.0.0.1 /Run/UserInvited/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `hiwan_user_invited` ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `hiwan_activity` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_activity` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 277 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 280 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 281 行.
+NOTIC: [8] Use of undefined constant initiate_user_id - assumed 'initiate_user_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 292 行.
+NOTIC: [8] Undefined index: feedback_content D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 294 行.
+NOTIC: [8] Use of undefined constant activity_id - assumed 'activity_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 294 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 298 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 299 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T14:54:40+08:00 ] 127.0.0.1 /Run/UserInvited/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user_invited` ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `hiwan_activity` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `hiwan_activity` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 277 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 280 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 281 行.
+NOTIC: [8] Use of undefined constant initiate_user_id - assumed 'initiate_user_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 292 行.
+NOTIC: [8] Undefined index: feedback_content D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 294 行.
+NOTIC: [8] Use of undefined constant activity_id - assumed 'activity_id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 294 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 298 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\bcd75ad725de83ac969692ecec86064d.php 第 299 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

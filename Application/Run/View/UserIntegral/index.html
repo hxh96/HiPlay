@@ -1,0 +1,109 @@
+<extend name="Index/index"/>
+<block name="content">
+    <div class="public-nav">
+        您当前的位置：
+        <a href="">{$module}</a>>
+        <a href="">{$menu}</a>
+    </div>
+    <div class="public-content">
+        <div class="public-content-header">
+            <!--<div class="public-content-right fr">-->
+                <!--<a href="{:U('UserIntegral/add')}" style="height: 24px; width: 60px;border: 1px solid #ccc;font-size: 12px;text-align:center">添加信息</a>-->
+            <!--</div>-->
+            <h3>{$menu}</h3>
+
+        </div>
+        <div class="public-content-cont">
+            <table class="public-cont-table">
+                <tr>
+                    <th style="width:2%">ID</th>
+                    <th style="width:10%">用户名</th>
+                    <th style="width:10%">手机号</th>
+                    <th style="width:10%">积分说明</th>
+                    <th style="width:5%">积分值</th>
+                    <th style="width:5%">状态</th>
+                    <th style="width:10%">添加时间</th>
+                    <th style="width:20%">操作</th>
+                </tr>
+                <volist name="lists" id="v">
+                    <tr>
+                        <td>{$v.id}</td>
+                        <td><a href="{:U('User/index',['id'=>$v[user_id]])}" style="color: #00C1B3">{$v.username}</a></td>
+                        <td>{$v.phone}</td>
+                        <td>{$v.instructions}</td>
+                        <td>{$v.value}</td>
+                        <td>
+                            <if condition="$v[status] eq 1">
+                                <span style="color: #45B549">正常</span>
+                                <else/>
+                                <span style="color: red">删除</span>
+                            </if>
+                        </td>
+                        <td>{$v.inputtime}</td>
+                        <td>
+                            <div class="table-fun">
+                                <if condition="$v[needAudit] eq 1">
+                                    <a href="javaScript:;" attr-userId="{$v.user_id}" attr-user_integral_id="{$v.id}" attr-money="{$v.money}" attr-name="发放" class="tp-audit">
+                                        <span style="color: #4a77d4">发放</span>
+                                    </a>
+                                </if>
+                                <if condition="$v[status] eq 1">
+                                    <a href="javaScript:;" attr-id="{$v.id}" attr-name="删除" class="tp-delete">
+                                    <span style="color: red">删除</span>
+                                    </a>
+                                    <else/>
+                                    <a href="javaScript:;" attr-id="{$v.id}" attr-name="恢复" class="tp-delete">
+                                        <span style="color: deepskyblue">恢复</span>
+                                    </a>
+                                </if>
+                            </div>
+                        </td>
+                    </tr>
+                </volist>
+            </table>
+            <div class="pagelist">
+                {$page}
+            </div>
+        </div>
+    </div>
+</block>
+<block name="script">
+    <script src="__JS__/run.js"></script>
+
+    <script>
+        var SCOPE = {
+            'redirect_url' : "{:U('UserIntegral/delete')}",
+            'jump_url' : "{:U('UserIntegral/index')}"
+        };
+
+        //通过
+        $('.tp-audit').click(function(){
+            var userId = $(this).attr('attr-userId');
+            var money = $(this).attr('attr-money');
+            var userIntegralId = $(this).attr('attr-user_integral_id');
+            console.log(userIntegralId);
+            layer.open({
+                content: '确认执行该操作?',
+                icon: 3,
+                btn: ['是', '否'],
+                yes: function () {
+                    $.ajax({
+                        type:'post',
+                        url:"{:U('Home/Api/wxSendRedEnvelope')}",
+                        data:'user_id='+userId+'&money='+money+'&user_integral_id='+userIntegralId,
+                        dataType:'json',
+                        success:function(data){
+                            if(data.code == 200){
+                                var url = "{:U('UserIntegral/index')}";
+                                return dialog.success(data.message,url);
+                            }else {
+                                return dialog.error(data.message);
+                            }
+                        }
+                    });
+                },
+            });
+//            console.log(userId);
+        })
+    </script>
+</block>

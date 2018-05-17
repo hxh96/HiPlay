@@ -1,0 +1,182 @@
+<extend name="Index/index"/>
+<block name="content">
+    <div class="public-nav">
+        您当前的位置：
+        <a href="">{$module}</a>>
+        <a href="">{$menu}</a>
+    </div>
+    <div class="public-content">
+        <div class="public-content-header">
+            <div class="public-content-right fr">
+                <a href="javaScript:;" id="searchBtn" style="float: left;height: 24px; width: 60px;border: 1px solid #ccc;font-size: 12px;text-align:center">搜索</a>
+                <input type="text" id="phone"  placeholder="请输入手机号">
+            </div>
+            <script>
+                $(function(){
+                    //搜索
+                    $('#searchBtn').click(function(){
+                        var phone = $('#phone').val();
+                        location.href = "{:U('User/index')}?phone="+phone;
+                    });
+                });
+
+            </script>
+
+            <div class="public-content-right fr">
+                <a href="{:U('User/downUserInfo')}"  style="height: 24px; width: 60px;border: 1px solid #ccc;font-size: 12px;text-align:center;color: #00C1B3">导出信息</a>
+            </div>
+            <h3>{$menu}     真实用户：{$userNumber}人</h3>
+
+            <!--<div class="public-content-right fr">-->
+                <!--<a href="{:U('User/add')}" style="height: 24px; width: 60px;border: 1px solid #ccc;font-size: 12px;text-align:center">添加信息</a>-->
+            <!--</div>-->
+        </div>
+        <div class="public-content-cont">
+            <table class="public-cont-table">
+                <tr>
+                    <th >ID</th>
+                    <th >用户名</th>
+                    <th >官方账号</th>
+                    <th >公众号</th>
+                    <th >机器人</th>
+                    <!--<th >unionID</th>-->
+                    <th >查看相册</th>
+                    <th >身份证号</th>
+                    <th >真实姓名</th>
+                    <th >手机号</th>
+                    <th >QQ</th>
+                    <th >邮箱</th>
+                    <th >年龄</th>
+                    <th >性别</th>
+                    <th >头像</th>
+                    <!--<th >地址</th>-->
+                    <th >状态</th>
+                    <th >发起</th>
+                    <th >应邀</th>
+                    <th >收藏</th>
+                    <th >取消</th>
+                    <th >积分</th>
+                    <th >关注</th>
+                    <th >粉丝</th>
+                    <th >添加时间</th>
+                    <th >最后一次登录时间</th>
+                    <th >推荐用户</th>
+                    <th >操作</th>
+                </tr>
+                <volist name="lists" id="v">
+                    <tr>
+                        <td>{$v.id}</td>
+                        <td>{$v.user_name}</td>
+                        <td>
+                            <select class="checkUserOfficial" attr-uId="{$v.id}">
+                                <option value="1" {$v[is_official]==1?'selected':''}>是</option>
+                                <option value="0" {$v[is_official]==0?'selected':''}>否</option>
+                            </select>
+                        </td>
+                        <td>
+                            <if condition="$v[subscribe] eq 1">
+                                <span style="color: #45B549">已关注</span>
+                                <else/>
+                                <span style="color: red">未关注</span>
+                            </if>
+                        </td>
+                        <td>
+                            <if condition="$v[is_robot] eq 1">
+                                <span style="color: red">是</span>
+                                <else/>
+                                <span style="color: #45B549">否</span>
+                            </if>
+                        </td>
+                        <!--<td>{$v.unionid}</td>-->
+                        <td><a href="{:U('UserPhotoAlbum/index',['user_id'=>$v[id]])}" class="number_a">{$v.user_photo_album_number}</a></td>
+                        <td>{$v.id_card}</td>
+                        <td>{$v.real_name}</td>
+                        <td>{$v.phone}</td>
+                        <td>{$v.qq}</td>
+                        <td>{$v.email}</td>
+                        <td>{$v.age}</td>
+                        <td>{$v[sex]==1?'男':'女'}</td>
+                        <td><img src="{$v.head_img}" width="50" height="50"/></td>
+                        <!--<td>{$v.address}</td>-->
+                        <td>
+                            <!--{$v[status]==1?'正常':'删除'}-->
+                            <if condition="$v[status] eq 1">
+                                <span style="color: #45B549">正常</span>
+                                <else/>
+                                <span style="color: red">封停</span>
+                            </if>
+                        </td>
+                        <td><a href="{:U('Activity/index',['initiate_user_id'=>$v[id]])}" class="number_a">{$v.initiate_number}</a></td>
+                        <td><a href="{:U('UserInvited/index',['user_id'=>$v[id]])}" class="number_a">{$v.invited_number}</a></td>
+                        <td><a href="{:U('UserCollection/index',['user_id'=>$v[id]])}" class="number_a">{$v.collection_number}</a></td>
+                        <td><a href="{:U('UserCancel/index',['user_id'=>$v[id]])}" class="number_a">{$v.cancel_number}</a></td>
+                        <td><a href="{:U('UserIntegral/index',['user_id'=>$v[id]])}" class="number_a">{$v.user_integral_number}</a></td>
+                        <td><a href="{:U('UserAttention/index',['user_id'=>$v[id]])}" class="number_a">{$v.attention_number}</a></td>
+                        <td><a href="{:U('UserAttention/index',['attention_user_id'=>$v[id]])}" class="number_a">{$v.fans_number}</a></td>
+                        <td>{$v.inputtime}</td>
+                        <td>{$v.lost_login_time}</td>
+                        <td><a href="{:U('User/index',['id'=>$v[source]])}" style="color: blue">{$v.source_name}</a></td>
+                        <td>
+                            <div class="table-fun">
+                                <!--<a href="{:U('Admin/edit',['id'=>$v[id]])}">修改</a>-->
+                                <if condition="$v[status] eq 1">
+                                    <a href="javaScript:;" attr-id="{$v.id}" attr-name="封停" class="tp-delete">
+                                        <span style="color: red">封停</span>
+                                    </a>
+                                    <else/>
+                                    <a href="javaScript:;" attr-id="{$v.id}" attr-name="恢复" class="tp-delete">
+                                        <span style="color: deepskyblue">恢复</span>
+                                    </a>
+                                </if>
+                            </div>
+                        </td>
+                    </tr>
+                </volist>
+            </table>
+            <div class="pagelist">
+                {$page}
+            </div>
+        </div>
+    </div>
+</block>
+<block name="script">
+    <script src="__JS__/run.js"></script>
+
+    <script>
+        var SCOPE = {
+            'redirect_url' : "{:U('User/delete')}",
+            'jump_url' : "{:U('User/index')}"
+        };
+
+
+        $(function(){
+            //修改官方账号
+            $('.checkUserOfficial').change(function(){
+                var userId = $(this).attr('attr-uId');
+                var is_official = $(this).val();
+                layer.open({
+                    content: '确认执行该操作?',
+                    icon: 3,
+                    btn: ['是', '否'],
+                    yes: function () {
+                        $.ajax({
+                            type:'post',
+                            url:"{:U('User/UserOfficial')}",
+                            data:'id='+userId+'&is_official='+is_official,
+                            dataType:'json',
+                            success:function(data){
+                                if(data.code == 1){
+                                    var url = "{:U('User/index')}";
+                                    return dialog.success(data.message,url);
+                                }else {
+                                    return dialog.error(data.message);
+                                }
+                            }
+                        });
+                    },
+                });
+
+            })
+        })
+    </script>
+</block>

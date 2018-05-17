@@ -1,0 +1,162 @@
+[ 2018-04-16T17:05:42+08:00 ] 127.0.0.1 /Run/Robot/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 1 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_system` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_logo' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_system` WHERE `var` = 'web_name' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 24 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+NOTIC: [8] Use of undefined constant is_robot - assumed 'is_robot' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 287 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 295 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 299 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 300 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 304 行.
+NOTIC: [8] Use of undefined constant source - assumed 'source' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Undefined index: source_name D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 306 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 309 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\phpStudy\WWW\hiwan\Application\Runtime\Cache\Run\293a963a99f23bd1640cebe0d601550a.php 第 310 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

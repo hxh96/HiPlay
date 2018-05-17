@@ -1,0 +1,1419 @@
+[ 2018-05-02T10:40:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0430s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0700s ]
+
+[ 2018-05-02T10:41:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0040s ]
+
+[ 2018-05-02T10:41:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T10:41:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T10:42:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T10:42:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T10:42:09+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T10:42:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T10:42:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T10:42:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T11:20:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:20:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T11:20:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T11:20:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:20:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T11:21:09+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T11:21:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T11:21:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:21:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:21:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T11:21:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:21:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:21:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:21:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:21:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:21:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T11:21:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:23:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:24:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0020s ]
+
+[ 2018-05-02T11:25:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-05-02T11:25:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:25:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:25:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-05-02T11:46:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:47:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-02T11:53:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `is_robot` = 0 ORDER BY is_robot asc,id desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-05-02T12:08:27+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T12:08:29+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T12:11:44+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T12:13:46+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T12:14:08+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T12:17:51+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T12:35:53+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T12:35:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T12:35:55+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T12:36:01+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T12:38:01+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T12:43:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'release' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-02T12:43:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'release' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-02T12:44:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'release' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-02T12:44:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'release' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-02T12:44:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'release' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-02T12:44:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'release' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-05-02T12:44:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'release' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-05-02T12:44:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'release' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-02T12:56:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T12:56:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T12:56:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T12:56:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T12:56:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-05-02T12:56:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T13:24:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[HY000] [2002] �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+
+[ 2018-05-02T13:24:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T13:25:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T13:25:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `hiwan_user_invited` WHERE `user_id` = 10 ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T13:26:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_user_invited` WHERE `user_id` = 10 ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T13:26:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `hiwan_user_invited` WHERE `user_id` = 10 ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-02T13:26:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_user_invited` WHERE `user_id` = 10 ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-02T13:27:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `hiwan_user_invited` WHERE `user_id` = 10 ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'invited' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_integral` [ RunTime:0.0050s ]
+SQL: INSERT INTO `hiwan_user_integral` (`user_id`,`instructions`,`value`,`status`,`inputtime`) VALUES ('10','签到积分','10','1','2018-05-02 13:27:32') [ RunTime:0.0020s ]
+
+[ 2018-05-02T13:27:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `hiwan_user_invited` WHERE `user_id` = 10 ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'invited' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_integral` [ RunTime:0.0040s ]
+SQL: INSERT INTO `hiwan_user_integral` (`user_id`,`instructions`,`value`,`status`,`inputtime`) VALUES ('10','签到积分','10','1','2018-05-02 13:27:49') [ RunTime:0.0020s ]
+
+[ 2018-05-02T13:28:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_invited` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `hiwan_user_invited` WHERE `user_id` = 10 ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `hiwan_integral_rules` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `hiwan_integral_rules` WHERE `var` = 'invited' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `hiwan_user_integral` [ RunTime:0.0040s ]
+SQL: INSERT INTO `hiwan_user_integral` (`user_id`,`instructions`,`value`,`status`,`inputtime`) VALUES ('10','签到积分','10','1','2018-05-02 13:28:16') [ RunTime:0.0040s ]
+
+[ 2018-05-02T13:43:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:43:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:43:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:49:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:49:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:49:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:49:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:49:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:49:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:49:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:50:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:53:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:53:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:54:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T13:54:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T14:12:18+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T14:12:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T14:12:34+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T14:13:29+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T14:15:35+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T14:37:07+08:00 ] 127.0.0.1 /Ceshi/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T15:52:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:52:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:20+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-02T15:53:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:21+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-02T15:53:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:53:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T15:54:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+
+[ 2018-05-02T16:18:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource D:\phpStudy\WWW\hiwan\Application\Home\Common\function.php 第 175 行.
+

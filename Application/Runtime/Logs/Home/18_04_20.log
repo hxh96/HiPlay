@@ -1,0 +1,3772 @@
+[ 2018-04-20T16:11:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T16:11:51+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T16:11:53+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T16:11:59+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T16:12:03+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T16:12:05+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T16:12:38+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T16:25:27+08:00 ] 127.0.0.1 /Ru=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Ru=
+
+[ 2018-04-20T16:32:36+08:00 ] 127.0.0.1 /Ru=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Ru=
+
+[ 2018-04-20T16:32:37+08:00 ] 127.0.0.1 /Ru=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Ru=
+
+[ 2018-04-20T16:32:39+08:00 ] 127.0.0.1 /R
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:R
+
+[ 2018-04-20T16:32:40+08:00 ] 127.0.0.1 /R
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:R
+
+[ 2018-04-20T16:32:40+08:00 ] 127.0.0.1 /R
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:R
+
+[ 2018-04-20T16:32:40+08:00 ] 127.0.0.1 /R
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:R
+
+[ 2018-04-20T16:32:41+08:00 ] 127.0.0.1 /R
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:R
+
+[ 2018-04-20T16:33:31+08:00 ] 127.0.0.1 /R
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:R
+NOTIC: [2] include(): Filename cannot be empty D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.;C:\php\pear') D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2018-04-20T16:33:34+08:00 ] 127.0.0.1 /R
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:R
+NOTIC: [2] include(): Filename cannot be empty D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.;C:\php\pear') D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2018-04-20T16:33:34+08:00 ] 127.0.0.1 /R
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:R
+NOTIC: [2] include(): Filename cannot be empty D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.;C:\php\pear') D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2018-04-20T16:34:12+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+NOTIC: [2] include(): Filename cannot be empty D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.;C:\php\pear') D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2018-04-20T16:34:18+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:34:28+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+NOTIC: [2] include(): Filename cannot be empty D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.;C:\php\pear') D:\phpStudy\WWW\hiwan\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2018-04-20T16:36:04+08:00 ] 127.0.0.1 /asd
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:36:05+08:00 ] 127.0.0.1 /asd
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:36:06+08:00 ] 127.0.0.1 /asd
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:36:49+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:36:49+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:37:52+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:37:52+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:37:53+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:37:59+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:37:59+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:37:59+08:00 ] 127.0.0.1 /asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:38:06+08:00 ] 127.0.0.1 /asd
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:38:12+08:00 ] 127.0.0.1 /zz
+ERR: 无法加载控制器:Zz
+
+[ 2018-04-20T16:38:26+08:00 ] 127.0.0.1 /asd
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:38:33+08:00 ] 127.0.0.1 /Rasd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Rasd
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Rasd
+ERR: 无法加载控制器:Rasd
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:41+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:46+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:46+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:46+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:46+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:46+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:46+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:38:47+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:17+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /asd
+ERR: 无法加载控制器:Asd
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:22+08:00 ] 127.0.0.1 /Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:25+08:00 ] 127.0.0.1 /Public/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:27+08:00 ] 127.0.0.1 /P123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:P123
+
+[ 2018-04-20T16:39:30+08:00 ] 127.0.0.1 /P123
+ERR: 无法加载控制器:P123
+
+[ 2018-04-20T16:39:30+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:30+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:30+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:31+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:39:36+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:06+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:09+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Hasd
+ERR: 无法加载控制器:Hasd
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:40:12+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:12+08:00 ] 127.0.0.1 /Public/Home/css/normalize.css
+ERR: 非法操作:home
+
+[ 2018-04-20T16:41:47+08:00 ] 127.0.0.1 /Home/Public/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:47+08:00 ] 127.0.0.1 /Home/Public/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:48+08:00 ] 127.0.0.1 /Home/Public/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:48+08:00 ] 127.0.0.1 /Home/Public/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:53+08:00 ] 127.0.0.1 /Hoasd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Hoasd
+
+[ 2018-04-20T16:41:57+08:00 ] 127.0.0.1 /Hoasd
+ERR: 无法加载控制器:Hoasd
+
+[ 2018-04-20T16:41:57+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:57+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:57+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:57+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:57+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:57+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:57+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:41:58+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:03+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:07+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:42:39+08:00 ] 127.0.0.1 /Public/Home/css/normalize.css
+ERR: 非法操作:home
+
+[ 2018-04-20T16:42:50+08:00 ] 127.0.0.1 /Home/Public/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\PublicController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\hiwan\Application\Home\Controller\PublicController.class.php 第 20 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T16:42:50+08:00 ] 127.0.0.1 /Public/Home/css/normalize.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\PublicController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\hiwan\Application\Home\Controller\PublicController.class.php 第 20 行.
+ERR: 非法操作:Home
+
+[ 2018-04-20T16:42:52+08:00 ] 127.0.0.1 /Ho123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Ho123
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Ho123
+ERR: 无法加载控制器:Ho123
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:57+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:42:58+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:03+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:05+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:06+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:07+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:08+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:18+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Hom123
+ERR: 无法加载控制器:Hom123
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:21+08:00 ] 127.0.0.1 /Home/Public/error
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:27+08:00 ] 127.0.0.1 /Home123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Home123
+
+[ 2018-04-20T16:43:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home123
+ERR: 无法加载控制器:Home123
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:33+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:34+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Ho123
+ERR: 无法加载控制器:Ho123
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:36+08:00 ] 127.0.0.1 /Home/Public/error.html
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:41+08:00 ] 127.0.0.1 /Home/Public/error.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\PublicController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\hiwan\Application\Home\Controller\PublicController.class.php 第 20 行.
+ERR: 模板不存在:./Application/Home/View/Public/404.html.html
+
+[ 2018-04-20T16:43:47+08:00 ] 127.0.0.1 /Homasd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Homasd
+
+[ 2018-04-20T16:43:51+08:00 ] 127.0.0.1 /Homasd/
+ERR: 无法加载控制器:Homasd
+
+[ 2018-04-20T16:43:51+08:00 ] 127.0.0.1 /Public/Home/css/normalize.css
+ERR: 非法操作:home
+
+[ 2018-04-20T16:44:41+08:00 ] 127.0.0.1 /Home/Public/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\PublicController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\hiwan\Application\Home\Controller\PublicController.class.php 第 20 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T16:44:41+08:00 ] 127.0.0.1 /Public/Home/img/404.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T16:44:41+08:00 ] 127.0.0.1 /Public/Home/img/tfans.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T16:44:43+08:00 ] 127.0.0.1 /H123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:H123
+
+[ 2018-04-20T16:44:46+08:00 ] 127.0.0.1 /H123
+ERR: 无法加载控制器:H123
+
+[ 2018-04-20T16:45:26+08:00 ] 127.0.0.1 /Home/Public/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\PublicController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\hiwan\Application\Home\Controller\PublicController.class.php 第 20 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T16:45:28+08:00 ] 127.0.0.1 /Home/123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:123
+
+[ 2018-04-20T16:45:30+08:00 ] 127.0.0.1 /Hom123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Hom123
+
+[ 2018-04-20T16:45:34+08:00 ] 127.0.0.1 /Hom123
+ERR: 无法加载控制器:Hom123
+
+[ 2018-04-20T16:45:50+08:00 ] 127.0.0.1 /rz
+ERR: 无法加载控制器:Rz
+
+[ 2018-04-20T16:46:08+08:00 ] 127.0.0.1 /Home/Public/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:11+08:00 ] 127.0.0.1 /Hoasd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Hoasd
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Hoasd/
+ERR: 无法加载控制器:Hoasd
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:19+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:19+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:19+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:19+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:19+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:19+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:19+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:19+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:19+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:19+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:46:24+08:00 ] 127.0.0.1 /Home/Public/404.html
+ERR: 无法加载控制器:Public
+
+[ 2018-04-20T16:47:01+08:00 ] 127.0.0.1 /Hoasd
+ERR: 无法加载控制器:Hoasd
+
+[ 2018-04-20T16:47:18+08:00 ] 127.0.0.1 /Home/Public/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T16:47:19+08:00 ] 127.0.0.1 /Homasd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Homasd
+
+[ 2018-04-20T16:47:27+08:00 ] 127.0.0.1 /Homasd
+ERR: 无法加载控制器:Homasd
+
+[ 2018-04-20T17:11:26+08:00 ] 127.0.0.1 /index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-04-20T17:14:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-04-20T17:14:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-04-20T17:14:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-04-20T17:14:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-04-20T17:14:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:14:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:14:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:15:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:15:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:15:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:15:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:15:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:15:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:15:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-04-20T17:15:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:15:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-04-20T17:15:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:30:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:30:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:33:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:33:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:33:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:33:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:33:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:33:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:33:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:33:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:33:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:33:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:33:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:33:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:33:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:34:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:34:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-20T17:34:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:34:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:34:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T17:34:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-20T18:03:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

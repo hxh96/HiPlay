@@ -1,0 +1,136 @@
+<extend name="Index/index"/>
+<block name="style">
+	<link rel="stylesheet" href="__CSS__/uploadify.css" />
+	<script src="__JS__/jquery.uploadify.js"></script>
+</block>
+<block name="content">
+	<div class="public-nav">
+		您当前的位置：
+		<a href="">{$module}</a>>
+		<a href="">{$menu}</a>
+	</div>
+	<div class="public-content">
+		<div class="public-content-header">
+			<h3>{$menu}</h3>
+		</div>
+		<div class="public-content-cont">
+			<form id="addForm">
+			<!--<div class="form-group">-->
+				<!--<label for="">请选择分类</label>-->
+				<!--<select name="" class="form-select">-->
+					<!--<option value="">请选择分类</option>-->
+				<!--</select>-->
+			<!--</div>-->
+			<input class="form-input-txt" type="hidden" name="id" value="{$id}" />
+			<div class="form-group">
+				<label for="">名称</label>
+				<input class="form-input-txt" type="text" placeholder="请输入名称" name="name" value="{$name}" />
+			</div>
+			<div class="form-group">
+				<label for="">Banner图片</label>
+				<input   id="file_upload"  type="file" multiple="true" class="button">
+				<img style="display: none" id="upload_org_code_img" src="" width="150" >
+				<input  id="file_upload_image" name="img" type="hidden" value="{$img}" multiple="true">
+			</div>
+			<div class="form-group">
+				<label for="">说明内容</label>
+				<textarea name="content" class="input w50" rows="20" id="editor_tp">{$content}</textarea>
+			</div>
+			<div class="form-group">
+				<label for="">是否外链</label>
+				<select name="is_link" class="form-select">
+					<option value="1" {$is_link==1?'selected':''}>是</option>
+					<option value="0" {$is_link==0?'selected':''}>否</option>
+				</select>
+			</div>
+			<div class="form-group">
+				<label for="">链接地址</label>
+				<input class="form-input-txt" type="text" placeholder="请输入链接地址"  name="url" value="{$url}" />
+				<span style="color: red">*请以http://或https://开头</span>
+			</div>
+			<div class="form-group">
+				<label for="">排序</label>
+				<input class="form-input-txt" type="text" placeholder="请输入排序" name="sort" value="{$sort}" />
+			</div>
+			<!--<div class="form-group">-->
+				<!--<label for="">缩略图</label>-->
+					<!--<input class="form-input-txt" type="text" name="Dream_SiteName" value="" />-->
+					<!--<div class="file"><input type="file" class="form-input-file"/>选择文件</div>-->
+					<!--<div class="file"><input type="submit" class="form-input-file"/>上传</div>-->
+					<!--<a href="#">预览</a>-->
+			<!--</div>-->
+			<!--<div class="form-group">-->
+				<!--<label for="">优惠信息</label>-->
+				<!--<textarea id="editor_id" name="content"  class="form-input-textara" style="width:700px;height:300px;">-->
+					<!--&lt;strong&gt;HTML内容&lt;/strong&gt;-->
+				<!--</textarea>-->
+			<!--</div>-->
+			<!--<div class="form-group">-->
+				<!--<label for="">发布人</label>-->
+				<!--<input class="form-input-txt" type="text" name="Dream_SiteName" value="" />-->
+			<!--</div>-->
+			<!--<div class="form-group">-->
+				<!--<label for="">缩略图</label>-->
+				<!--<input class="form-input-txt" type="text" name="Dream_SiteName" value="" />-->
+				<!--<div class="file"><input type="file" class="form-input-file"/>选择文件</div>-->
+				<!--<div class="file"><input type="submit" class="form-input-file"/>上传</div>-->
+				<!--<a href="#">预览</a>-->
+			<!--</div>-->
+			<!--<div class="form-group">-->
+				<!--<label for="">信息设置</label>-->
+				<!--<input class="form-input-radius" type="checkbox" name="Dream_SiteName" value="" />大图-->
+				<!--<input class="form-input-radius" type="checkbox" name="Dream_SiteName" value="" />审核-->
+			<!--</div>-->
+			</form>
+			<div class="form-group" style="margin-left:150px;">
+				<button class="sub-btn addFormBtn" >提  交</button>
+				<button class="return-btn" ><a class="btn-a" href="{:U('Banner/index')}">返  回</a></button>
+			</div>
+		</div>
+	</div>
+</block>
+<block name="script">
+	<script src="__JS__/run.js"></script>
+
+	<script>
+		var SCOPE = {
+			'redirect_url' : "{:U('Banner/editData')}",
+			'jump_url' : "{:U('Banner/index')}"
+		};
+
+		// 6.2
+		KindEditor.options.filterMode = false;
+		KindEditor.ready(function(K) {
+			window.editor = K.create('#editor_tp',{
+				afterBlur : function(){this.sync();}});
+		});
+
+		$(function() {
+			$('#file_upload').uploadify({
+				'swf'      : '__JS__/swf/uploadify.swf',
+				'uploader' : "{:U('UploadImg/index')}",
+				'buttonText': '上传图片',
+				'fileTypeDesc': 'Image Files',
+				'fileObjName' : 'file',
+				//允许上传的文件后缀
+				'fileTypeExts': '*.gif; *.jpg; *.png; *.bmp; *.jpeg;',
+				'onUploadSuccess' : function(file,data,response) {
+					// response true ,false
+					if(response) {
+						var obj = JSON.parse(data); //由JSON字符串转换为JSON对象
+
+						console.log(data);
+						$('#' + file.id).find('.data').html(' 上传完毕');
+						//return dialog.toconfirm('上传完毕');
+						$("#upload_org_code_img").attr("src",obj.data);
+						$("#file_upload_image").attr('value',obj.data);
+						$("#upload_org_code_img").show();
+					}else{
+						//alert('上传失败');
+						return dialog.error('上传失败1');
+					}
+				}
+			});
+		});
+	</script>
+</block>

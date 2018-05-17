@@ -1,0 +1,81 @@
+<extend name="Index/index"/>
+<block name="content">
+    <div class="public-nav">
+        您当前的位置：
+        <a href="">{$module}</a>>
+        <a href="">{$menu}</a>
+    </div>
+    <div class="public-content">
+        <div class="public-content-header">
+            <!--<div class="public-content-right fr">-->
+                <!--<a href="{:U('UserIntegral/add')}" style="height: 24px; width: 60px;border: 1px solid #ccc;font-size: 12px;text-align:center">添加信息</a>-->
+            <!--</div>-->
+            <h3>{$menu}</h3>
+
+        </div>
+        <div class="public-content-cont">
+            <table class="public-cont-table">
+                <tr>
+                    <th>ID</th>
+                    <th>活动</th>
+                    <th >评论者</th>
+                    <th>行为友善</th>
+                    <th >是否守时</th>
+                    <th >活跃程度</th>
+                    <th >详细内容</th>
+                    <th >被评论者</th>
+                    <th >状态</th>
+                    <th >添加时间</th>
+                    <th>操作</th>
+                </tr>
+                <volist name="lists" id="v">
+                    <tr>
+                        <td>{$v.id}</td>
+                        <td><a href="{:U('Activity/index',['id'=>$v[activity_id]])}" style="color: #4a77d4">{$v.activity_name}</a></td>
+                        <td><a href="{:U('User/index',['id'=>$v[comment_user_id]])}" style="color: #00C1B3">{$v.user_name}</a></td>
+                        <td>{$v.act_friendly}</td>
+                        <td>{$v.is_punctual}</td>
+                        <td>{$v.active_degree}</td>
+                        <td>{$v.comment_content}</td>
+                        <td><a href="{:U('User/index',['id'=>$v[comment_object_user_id]])}" style="color: #00C1B3">{$v.comment_object_user_name}</a></td>
+                        <td>
+                            <if condition="$v[status] eq 1">
+                                <span style="color: #45B549">正常</span>
+                                <else/>
+                                <span style="color: red">删除</span>
+                            </if>
+                        </td>
+                        <td>{$v.inputtime}</td>
+                        <td>
+                            <div class="table-fun">
+                                <if condition="$v[status] eq 1">
+                                    <a href="javaScript:;" attr-id="{$v.id}" attr-name="删除" class="tp-delete">
+                                    <span style="color: red">删除</span>
+                                    </a>
+                                    <else/>
+                                    <a href="javaScript:;" attr-id="{$v.id}" attr-name="恢复" class="tp-delete">
+                                        <span style="color: deepskyblue">恢复</span>
+                                    </a>
+                                </if>
+                            </div>
+                        </td>
+                    </tr>
+                </volist>
+            </table>
+            <div class="pagelist">
+                {$page}
+            </div>
+        </div>
+    </div>
+</block>
+<block name="script">
+    <script src="__JS__/run.js"></script>
+
+    <script>
+        var SCOPE = {
+            'redirect_url' : "{:U('UserComments/delete')}",
+            'jump_url' : "{:U('UserComments/index')}"
+        };
+
+    </script>
+</block>

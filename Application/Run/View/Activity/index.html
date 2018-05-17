@@ -1,0 +1,153 @@
+<extend name="Index/index"/>
+<block name="content">
+    <div class="public-nav">
+        您当前的位置：
+        <a href="">{$module}</a>>
+        <a href="">{$menu}</a>
+    </div>
+    <div class="public-content">
+        <div class="public-content-header">
+            <div class="public-content-right fr">
+                <a href="{:U('Activity/add')}" style="height: 24px; width: 60px;border: 1px solid #ccc;font-size: 12px;text-align:center">添加信息</a>
+            </div>
+            <div class="public-content-right fr">
+                <a href="javaScript:;" id="auditAll" style="height: 24px; width: 60px;border: 1px solid #ccc;font-size: 12px;text-align:center;color: #00C1B3">批量审核</a>
+            </div>
+            <h3>{$menu}</h3>
+        </div>
+        <div class="public-content-cont">
+            <table class="public-cont-table">
+                <tr>
+                    <th ><input type="checkbox" id="checkAll">全选</th>
+                    <th >ID</th>
+                    <th >活动标题</th>
+                    <th >活动状态</th>
+                    <th >费用类型</th>
+                    <th >活动类型</th>
+                    <th >参与人数</th>
+                    <th >应邀人数</th>
+                    <th >活动说明</th>
+                    <th >发起时间</th>
+                    <th >发起者</th>
+                    <th >手机号</th>
+                    <th >状态</th>
+                    <th >开始时间</th>
+                    <th >活动地址</th>
+                    <!--<th >活动经度</th>-->
+                    <!--<th >活动纬度</th>-->
+                    <th >操作</th>
+                </tr>
+                <volist name="lists" id="v">
+                    <tr>
+                        <th>
+                            <if condition="$v[status] eq 0">
+                                <input type="checkbox" name='id' value="{$v.id}">
+                                <else/>
+                            </if>
+                        </th>
+                        <td>{$v.id}</td>
+                        <td>{$v.title}</td>
+                        <td>{$v.end_status}</td>
+                        <td>{$v.activity_cate_name}</td>
+                        <td>{$v.category_name}</td>
+                        <td>{$v.join_number}</td>
+                        <td><a href="{:U('UserInvited/index',['activity_id'=>$v[id]])}" style="color: #3762bc">{$v.invited_number}</a></td>
+                        <td title="{$v.content}" style="color: lightseagreen">{$v.content|substr=###,0,12}...</td>
+                        <td>{$v.inputtime}</td>
+                        <td><a href="{:U('User/index',['id'=>$v[initiate_user_id]])}" style="color: #2e8ded">{$v.initiate_user_name}</a></td>
+                        <td>{$v.user_phone}</td>
+                        <td>
+                            <if condition="$v[status] eq 0">
+                                <span style="color: red">未审核</span>
+                                <elseif condition="$v[status] eq 1"/>
+                                <span style="color: #45B549">审核通过</span>
+                                <else/>
+                                <span style="color: red">删除</span>
+                            </if>
+                        </td>
+                        <td>{$v.start_time}</td>
+                        <td title="{$v.activity_address}" style="color: lightseagreen">{$v.activity_address|substr=###,0,12}...</td>
+                        <!--<td>{$v.activity_longitude}</td>-->
+                        <!--<td>{$v.activity_latitude}</td>-->
+                        <td>
+                            <div class="table-fun">
+                                <if condition="$v[status] eq 0">
+                                        <a href="javaScript:;" attr-id="{$v.id}" attr-status="1" attr-name="通过" class="tp-delete">
+                                            <span style="color: deepskyblue">通过</span>
+                                        </a>
+                                        <a href="javaScript:;" attr-id="{$v.id}" attr-status="2" attr-name="删除" class="tp-delete">
+                                            <span style="color: red">删除</span>
+                                        </a>
+                                    <elseif condition="$v[status] eq 1"/>
+                                        <a href="javaScript:;" attr-id="{$v.id}" attr-status="2" attr-name="删除" class="tp-delete">
+                                            <span style="color: red">删除</span>
+                                        </a>
+                                    <else/>
+                                        <a href="javaScript:;" attr-id="{$v.id}" attr-status="1" attr-name="恢复" class="tp-delete">
+                                            <span style="color: deepskyblue">恢复</span>
+                                        </a>
+                                </if>
+                            </div>
+                        </td>
+                    </tr>
+                </volist>
+            </table>
+            <div class="pagelist">
+                {$page}
+            </div>
+        </div>
+    </div>
+</block>
+<block name="script">
+    <script src="__JS__/run.js"></script>
+
+    <script>
+        var SCOPE = {
+            'redirect_url' : "{:U('Activity/delete')}",
+            'jump_url' : "{:U('Activity/index')}"
+        };
+
+        $(function(){
+            //全选
+            $('#checkAll').click(function(){
+                var isCheck=$("#checkAll").is(':checked');  //获得全选复选框是否选中
+                $("input[type='checkbox']").each(function() {
+                    this.checked = isCheck;       //循环赋值给每个复选框是否选中
+                });
+            });
+
+            //批量审核
+            $('#auditAll').click(function(){
+                var obj = document.getElementsByName("id");
+                var check_val = [];
+                for(var i=0;i<obj.length;i++) {
+                    if (obj[i].checked){
+                        check_val.push(obj[i].value);
+                    }
+                }
+                layer.open({
+                    content: '确认执行该操作?',
+                    icon: 3,
+                    btn: ['是', '否'],
+                    yes: function () {
+                        $.ajax({
+                            type:'post',
+                            url:"{:U('Activity/auditAll')}",
+                            data:{'ids':check_val},
+                            dataType:'json',
+                            success:function(data){
+                                if(data.code == 1){
+                                    var url = "{:U('Activity/index')}";
+                                    return dialog.success(data.message,url);
+                                }else {
+                                    return dialog.error(data.message);
+                                }
+                            }
+                        });
+                    },
+                });
+            })
+
+        })
+    </script>
+</block>

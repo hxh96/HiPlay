@@ -1,0 +1,197 @@
+<extend name="Index/index"/>
+<block name="style">
+	<link rel="stylesheet" href="__CSS__/uploadify.css" />
+	<script src="__JS__/jquery.uploadify.js"></script>
+</block>
+<block name="content">
+	<div class="public-nav">
+		您当前的位置：
+		<a href="">{$module}</a>>
+		<a href="">{$menu}</a>
+	</div>
+	<div class="public-content">
+		<div class="public-content-header">
+			<h3>{$menu}</h3>
+		</div>
+		<div class="public-content-cont">
+			<form id="addForm">
+			<div class="form-group">
+				<label for="">发布者</label>
+				<select name="initiate_user_id" class="form-select">
+					<volist name="official" id="v">
+						<option value="{$v.id}">{$v.user_name}</option>
+					</volist>
+				</select>
+			</div>
+			<div class="form-group">
+				<label for="">标题</label>
+				<input class="form-input-txt" type="text" placeholder="请输入标题" name="title" value="" />
+			</div>
+			<div class="form-group">
+				<label for="">封面</label>
+				<input   id="file_upload"  type="file" multiple="true" class="button">
+				<img style="display: none" id="upload_org_code_img" src="" width="150" >
+				<input  id="file_upload_image" name="img" type="hidden" multiple="true">
+			</div>
+			<!--<div class="form-group">-->
+				<!--添加间隔时间(单位:秒)-->
+				<!--<input class="form-input-txt" type="text" placeholder="请输入添加间隔时间" id="sleepTime" name="sleepTime" value="" />-->
+			<!--</div>-->
+			<div class="form-group">
+				<label for="">费用类型</label>
+				<select name="activity_cate_id" class="form-select">
+					<volist name="activityCate" id="v">
+						<option value="{$v.id}">{$v.activity_cate_name}</option>
+					</volist>
+				</select>
+			</div>
+
+			<div class="form-group">
+				<label for="">活动类型</label>
+				<select name="category_id" class="form-select">
+					<volist name="category" id="v">
+						<option value="{$v.id}">{$v.name}</option>
+						<if condition="$v[_child]">
+							<volist name="v._child" id="z">
+								<option value="{$z.id}">---{$z.name}</option>
+								<if condition="$z[_child]">
+									<volist name="z._child" id="y">
+										<option value="{$y.id}">------{$y.name}</option>
+									</volist>
+									<else/>
+								</if>
+							</volist>
+							<else/>
+						</if>
+					</volist>
+				</select>
+			</div>
+
+			<div class="form-group">
+				<label for="">参与人数</label>
+				<input class="form-input-txt" type="text" placeholder="请输入参与人数" name="join_number" value="" />
+			</div>
+
+
+			<div class="form-group">
+				<label for="">活动说明</label>
+				<textarea name="content" class="input w50" rows="20" id="editor_tp"></textarea>
+			</div>
+
+
+			<div class="form-group">
+				<label for="">开始时间</label>
+				<input class="form-input-txt" name="start_time" placeholder="请选择" id="start_time" class="laydate-icon" onClick="laydate({elem: '#start_time',istime: true, format: 'YYYY-MM-DD hh:mm:ss'})">
+			</div>
+
+			<div class="form-group">
+				<label for="">活动地址</label>
+				<input class="form-input-txt" type="text" placeholder="请输入活动地址" name="activity_address" value="" />
+			</div>
+			<div class="form-group">
+				<label for="">活动经度</label>
+				<input class="form-input-txt" type="text" placeholder="请输入活动经度" name="activity_longitude" value="" />
+			</div>
+			<div class="form-group">
+				<label for="">活动纬度</label>
+				<input class="form-input-txt" type="text" placeholder="请输入活动纬度" name="activity_latitude" value="" />
+			</div>
+
+			<!--<div class="form-group">-->
+				<!--<label for="">用户名</label>-->
+				<!--<input class="form-input-txt" type="text" placeholder="请输入账号" name="username" value="" />-->
+			<!--</div>-->
+			<!--<div class="form-group">-->
+				<!--<label for="">密码</label>-->
+				<!--<input class="form-input-txt" type="password" placeholder="请输入6-16位密码" id="password" name="password" value="" />-->
+			<!--</div>-->
+			<!--<div class="form-group">-->
+				<!--<label for="">手机号</label>-->
+				<!--<input class="form-input-txt" type="text" placeholder="请输入11位手机号" name="phone" value="" />-->
+
+			<!--</div>-->
+
+			<!--<div class="form-group">-->
+				<!--<label for="">缩略图</label>-->
+					<!--<input class="form-input-txt" type="text" name="Dream_SiteName" value="" />-->
+					<!--<div class="file"><input type="file" class="form-input-file"/>选择文件</div>-->
+					<!--<div class="file"><input type="submit" class="form-input-file"/>上传</div>-->
+					<!--<a href="#">预览</a>-->
+			<!--</div>-->
+			<!--<div class="form-group">-->
+				<!--<label for="">优惠信息</label>-->
+				<!--<textarea id="editor_id" name="content"  class="form-input-textara" style="width:700px;height:300px;">-->
+					<!--&lt;strong&gt;HTML内容&lt;/strong&gt;-->
+				<!--</textarea>-->
+			<!--</div>-->
+			<!--<div class="form-group">-->
+				<!--<label for="">发布人</label>-->
+				<!--<input class="form-input-txt" type="text" name="Dream_SiteName" value="" />-->
+			<!--</div>-->
+			<!--<div class="form-group">-->
+				<!--<label for="">缩略图</label>-->
+				<!--<input class="form-input-txt" type="text" name="Dream_SiteName" value="" />-->
+				<!--<div class="file"><input type="file" class="form-input-file"/>选择文件</div>-->
+				<!--<div class="file"><input type="submit" class="form-input-file"/>上传</div>-->
+				<!--<a href="#">预览</a>-->
+			<!--</div>-->
+			<!--<div class="form-group">-->
+				<!--<label for="">信息设置</label>-->
+				<!--<input class="form-input-radius" type="checkbox" name="Dream_SiteName" value="" />大图-->
+				<!--<input class="form-input-radius" type="checkbox" name="Dream_SiteName" value="" />审核-->
+			<!--</div>-->
+			</form>
+			<div class="form-group" style="margin-left:150px;">
+				<button class="sub-btn addFormBtn" >确  定</button>
+				<button class="return-btn" ><a class="btn-a" href="{:U('Activity/index')}">返  回</a></button>
+			</div>
+		</div>
+	</div>
+</block>
+<block name="script">
+	<script src="__JS__/run.js"></script>
+
+	<script>
+		var SCOPE = {
+			'redirect_url' : "{:U('Activity/addData')}",
+			'jump_url' : "{:U('Activity/index')}"
+		};
+
+		// 6.2
+		KindEditor.options.filterMode = false;
+		KindEditor.ready(function(K) {
+			window.editor = K.create('#editor_tp',{
+				afterBlur : function(){this.sync();}});
+		});
+
+
+		$(function() {
+			$('#file_upload').uploadify({
+				'swf'      : '__JS__/swf/uploadify.swf',
+				'uploader' : "{:U('UploadImg/index')}",
+				'buttonText': '上传图片',
+				'fileTypeDesc': 'Image Files',
+				'fileObjName' : 'file',
+				//允许上传的文件后缀
+				'fileTypeExts': '*.gif; *.jpg; *.png; *.bmp; *.jpeg;',
+				'onUploadSuccess' : function(file,data,response) {
+					// response true ,false
+					if(response) {
+						var obj = JSON.parse(data); //由JSON字符串转换为JSON对象
+
+						console.log(data);
+						$('#' + file.id).find('.data').html(' 上传完毕');
+						//return dialog.toconfirm('上传完毕');
+						$("#upload_org_code_img").attr("src",obj.data);
+						$("#file_upload_image").attr('value',obj.data);
+						$("#upload_org_code_img").show();
+					}else{
+						//alert('上传失败');
+						return dialog.error('上传失败1');
+					}
+				}
+			});
+		});
+
+	</script>
+</block>
