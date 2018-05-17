@@ -2,6 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
+	<link rel="icon" href="<?php echo W('Public/web_logo');?>" type="image/x-icon"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title><?php echo W('Public/web_name');?>|后台管理系统</title>
 	<link rel="stylesheet" href="/Public/Run/css/reset.css">
@@ -13,6 +14,8 @@
 	<script src="/Public/Run/js/layer/layer.js"></script>
 	<script src="/Public/Run/js/dialog.js"></script>
 	<script src="/Public/Run/js/laydate.js"></script>
+	<script src="/Public/Run/js/kindeditor/kindeditor-all.js"></script>
+	<script src="/Public/Run/js/kindeditor/lang/zh_CN.js"></script>
 	
 	<link rel="stylesheet" href="/Public/Run/css/uploadify.css" />
 	<script src="/Public/Run/js/jquery.uploadify.js"></script>
@@ -112,6 +115,7 @@
 						<ul>
 							<li><a href="<?php echo U('IntegralRules/index');?>">积分规则</a></li>
 							<li><a href="<?php echo U('UserIntegral/index');?>">积分列表</a></li>
+							<li><a href="<?php echo U('WxRedEnvelope/index');?>">微信红包发放记录</a></li>
 							<!--<li><a href="<?php echo U('Robot/index');?>">机器人管理</a></li>-->
 							<!--<li><a href="<?php echo U('UserFeedback/index');?>" target="content">用户反馈</a></li>-->
 							<!--<li><a href="信息管理/cate_manage.html" target="content">分类管理</a></li>-->
@@ -125,6 +129,9 @@
 							<li><a href="<?php echo U('User/index');?>">用户列表</a></li>
 							<li><a href="<?php echo U('UserPhotoAlbum/index');?>">用户相册</a></li>
 							<li><a href="<?php echo U('UserFeedback/index');?>">用户反馈</a></li>
+							<li><a href="<?php echo U('UserComments/index');?>">用户互评</a></li>
+							<li><a href="<?php echo U('UserMessageBoard/index');?>">用户留言</a></li>
+							<li><a href="<?php echo U('UserAttention/index');?>">关注列表</a></li>
 							<!--<li><a href="信息管理/cate_manage.html" target="content">分类管理</a></li>-->
 						</ul>
 					</div>
@@ -278,6 +285,10 @@
 				<input  id="file_upload_image" name="img" type="hidden" multiple="true">
 			</div>
 			<div class="form-group">
+				<label for="">说明内容</label>
+				<textarea name="content" class="input w50" rows="20" id="editor_tp"></textarea>
+			</div>
+			<div class="form-group">
 				<label for="">是否外链</label>
 				<select name="is_link" class="form-select">
 				<option value="1">是</option>
@@ -287,9 +298,12 @@
 			<div class="form-group">
 				<label for="">链接地址</label>
 				<input class="form-input-txt" type="text" placeholder="请输入链接地址"  name="url" value="" />
-				<span style="color: red">*请以http://开头</span>
+				<span style="color: red">*请以http://或https://开头</span>
 			</div>
-
+			<div class="form-group">
+				<label for="">排序</label>
+				<input class="form-input-txt" type="text" placeholder="请输入排序" name="sort" value="0" />
+			</div>
 			<!--<div class="form-group">-->
 				<!--<label for="">缩略图</label>-->
 					<!--<input class="form-input-txt" type="text" name="Dream_SiteName" value="" />-->
@@ -338,6 +352,14 @@
 			'redirect_url' : "<?php echo U('Banner/addData');?>",
 			'jump_url' : "<?php echo U('Banner/index');?>"
 		};
+
+
+		// 6.2
+		KindEditor.options.filterMode = false;
+		KindEditor.ready(function(K) {
+			window.editor = K.create('#editor_tp',{
+				afterBlur : function(){this.sync();}});
+		});
 
 		$(function() {
 			$('#file_upload').uploadify({

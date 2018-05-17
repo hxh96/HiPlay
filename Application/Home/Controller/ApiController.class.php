@@ -18,6 +18,13 @@ class ApiController extends HomeController
         // 响应头设置
         header('Access-Control-Allow-Headers:x-requested-with,content-type');
         parent::__construct();
+
+
+
+
+
+
+
     }
 
 
