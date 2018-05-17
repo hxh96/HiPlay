@@ -2,6 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
+	<link rel="icon" href="<?php echo W('Public/web_logo');?>" type="image/x-icon"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title><?php echo W('Public/web_name');?>|后台管理系统</title>
 	<link rel="stylesheet" href="/Public/Run/css/reset.css">
@@ -13,6 +14,8 @@
 	<script src="/Public/Run/js/layer/layer.js"></script>
 	<script src="/Public/Run/js/dialog.js"></script>
 	<script src="/Public/Run/js/laydate.js"></script>
+	<script src="/Public/Run/js/kindeditor/kindeditor-all.js"></script>
+	<script src="/Public/Run/js/kindeditor/lang/zh_CN.js"></script>
 	
 </head>
 <body>
@@ -109,6 +112,7 @@
 						<ul>
 							<li><a href="<?php echo U('IntegralRules/index');?>">积分规则</a></li>
 							<li><a href="<?php echo U('UserIntegral/index');?>">积分列表</a></li>
+							<li><a href="<?php echo U('WxRedEnvelope/index');?>">微信红包发放记录</a></li>
 							<!--<li><a href="<?php echo U('Robot/index');?>">机器人管理</a></li>-->
 							<!--<li><a href="<?php echo U('UserFeedback/index');?>" target="content">用户反馈</a></li>-->
 							<!--<li><a href="信息管理/cate_manage.html" target="content">分类管理</a></li>-->
@@ -122,6 +126,9 @@
 							<li><a href="<?php echo U('User/index');?>">用户列表</a></li>
 							<li><a href="<?php echo U('UserPhotoAlbum/index');?>">用户相册</a></li>
 							<li><a href="<?php echo U('UserFeedback/index');?>">用户反馈</a></li>
+							<li><a href="<?php echo U('UserComments/index');?>">用户互评</a></li>
+							<li><a href="<?php echo U('UserMessageBoard/index');?>">用户留言</a></li>
+							<li><a href="<?php echo U('UserAttention/index');?>">关注列表</a></li>
 							<!--<li><a href="信息管理/cate_manage.html" target="content">分类管理</a></li>-->
 						</ul>
 					</div>
@@ -265,6 +272,7 @@
                 <tr>
                     <th style="width:2%">ID</th>
                     <th style="width:10%">名称</th>
+                    <th style="width:10%">排序</th>
                     <th style="width:10%">图片</th>
                     <th style="width:10%">是否外链</th>
                     <th style="width:10%">链接</th>
@@ -275,6 +283,7 @@
                 <?php if(is_array($lists)): $i = 0; $__LIST__ = $lists;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$v): $mod = ($i % 2 );++$i;?><tr>
                         <td><?php echo ($v["id"]); ?></td>
                         <td><?php echo ($v["name"]); ?></td>
+                        <td><?php echo ($v["sort"]); ?></td>
                         <td><img src="<?php echo ($v["img"]); ?>" width="50px" height="50px"/> </td>
                         <td>
                             <?php if($v[is_link] == 1): ?><span style="color: #45B549">是</span>

@@ -14,6 +14,8 @@
 	<script src="/Public/Run/js/layer/layer.js"></script>
 	<script src="/Public/Run/js/dialog.js"></script>
 	<script src="/Public/Run/js/laydate.js"></script>
+	<script src="/Public/Run/js/kindeditor/kindeditor-all.js"></script>
+	<script src="/Public/Run/js/kindeditor/lang/zh_CN.js"></script>
 	
 </head>
 <body>
@@ -125,6 +127,8 @@
 							<li><a href="<?php echo U('UserPhotoAlbum/index');?>">用户相册</a></li>
 							<li><a href="<?php echo U('UserFeedback/index');?>">用户反馈</a></li>
 							<li><a href="<?php echo U('UserComments/index');?>">用户互评</a></li>
+							<li><a href="<?php echo U('UserMessageBoard/index');?>">用户留言</a></li>
+							<li><a href="<?php echo U('UserAttention/index');?>">关注列表</a></li>
 							<!--<li><a href="信息管理/cate_manage.html" target="content">分类管理</a></li>-->
 						</ul>
 					</div>

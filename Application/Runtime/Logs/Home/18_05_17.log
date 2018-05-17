@@ -5152,3 +5152,38 @@ SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
 SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
 SQL: SELECT * FROM `hiwan_user` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0020s ]
 
+[ 2018-05-17T15:59:39+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-17T15:59:49+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-17T15:59:52+08:00 ] 127.0.0.1 /Upload/2018/05/03/5aeac44b1524b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-17T15:59:53+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-17T15:59:54+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-17T16:00:01+08:00 ] 127.0.0.1 /Upload/2018/05/03/5aeac44b1524b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-17T16:00:01+08:00 ] 127.0.0.1 /Public/Run/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
