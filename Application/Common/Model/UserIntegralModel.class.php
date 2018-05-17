@@ -28,6 +28,7 @@ class UserIntegralModel extends Model
         return $arr;
     }
 
+
     /**
      * 根据id获取一条数据
      * @param $id id
