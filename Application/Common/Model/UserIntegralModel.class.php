@@ -19,11 +19,12 @@ class UserIntegralModel extends Model
     /**
      * 获取所有信息
      * @param $map 条件表达式
+     * @param $limit 条数
      * @return mixed
      */
-    public function getAll($map='')
+    public function getAll($map='',$limit='')
     {
-        $arr = $this->_db->where($map)->order('id desc')->select();
+        $arr = $this->_db->where($map)->order('id desc')->limit($limit)->select();
         return $arr;
     }
 

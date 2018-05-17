@@ -144,6 +144,19 @@ class ApiController extends HomeController
         }
         $arr = D('User')->getUser($data);
         if ($arr) {
+            //获取别人的用户信息
+            if($data['examine_user_id']){
+                //判断是否关注被查看的用户
+                $map['user_id'] = $data['examine_user_id'];
+                $map['attention_user_id'] = $data['id'];
+                $map['status'] = 1;
+                $re = D('UserAttention')->getOne($map);
+                if($re){
+                    $arr['is_attention'] = 1;
+                }else{
+                    $arr['is_attention'] = 0;
+                }
+            }
             //关注数量
             $UserAttention = count(D('UserAttention')->getAll(array('user_id'=>$arr['id'],'status'=>1)));
             $arr['attention_number'] = $UserAttention;
@@ -209,7 +222,8 @@ class ApiController extends HomeController
 //        var_dump($map);
         $map['hiwan_user.status'] = array('eq',1);
         $map['hiwan_activity.status']  = array(array('neq',2),array('neq',3),'and');
-        $arr = D('Activity')->getAllJoinUser($map,$limit);
+        $order = 'hiwan_user.is_official desc,hiwan_user.is_robot asc,hiwan_activity.sort desc,hiwan_activity.start_time asc,hiwan_activity.inputtime desc';
+        $arr = D('Activity')->getAllJoinUser($map,$order,$limit);
         if ($arr) {
             //找到对应的分类和费用名称
             foreach($arr as &$v){
@@ -1202,7 +1216,7 @@ class ApiController extends HomeController
         $map['user_id'] = $post['user_id'];
         $map['status'] = 1;
         $user_photo_album = D('UserPhotoAlbum')->getAll($map);
-        if(count($user_photo_album) >= 6){
+        if(count($user_photo_album) >= 8){
             echo show(400,'相册数量已达上限');exit;
         }
         //使用base64编码上传

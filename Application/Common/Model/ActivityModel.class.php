@@ -72,7 +72,7 @@ class ActivityModel extends Model
      * @param $limit 条数
      * @return mixed
      */
-    public function getAllJoinUser($map='',$order='hiwan_user.is_official desc,hiwan_activity.sort desc,hiwan_user.is_robot asc,hiwan_activity.start_time asc,hiwan_activity.inputtime desc',$limit='')
+    public function getAllJoinUser($map='',$order='hiwan_user.is_official desc,hiwan_user.is_robot asc,hiwan_activity.sort desc,hiwan_activity.start_time asc,hiwan_activity.inputtime desc',$limit='')
     {
         $arr = $this->_db
             ->field(
